@@ -1,4 +1,4 @@
-# Data-Analisys
+# Data Analysis
 
 This code was created to analyse different phase-space files created with Monte Carlo simulations for particle transport of mono-energetic protons beams in water.
 
